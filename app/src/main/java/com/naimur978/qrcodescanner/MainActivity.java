@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
             ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.CAMERA}, 1);
-        } 
+        }
 
         cameraView = (SurfaceView) findViewById(R.id.camera_view);
         codeInfo = (TextView) findViewById(R.id.code_info);
