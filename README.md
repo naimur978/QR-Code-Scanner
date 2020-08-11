@@ -1,8 +1,10 @@
-# Image Classifier Tensorflow Lite
+# Corona Statistics
  
- 
-  <p align="center">
-  <img  src="https://media.giphy.com/media/h7XzUYKEjdmDlZsCDH/giphy.gif">
-</p>
+## Download APK
+* [Corona Stats](https://drive.google.com/open?id=12ZgQdkufa-FwG3vYasqA7GDaZ623aKWd)
 
-You can download this app from here : https://bit.ly/2Uppvy9
+## 📸 ScreenShots
+
+
+|<img src="ss/1.png" width="250">|<img src="ss/2.png" width="250">|
+|<img src="ss/3.png" width="250">|<img src="ss/4.png" width="250">|
